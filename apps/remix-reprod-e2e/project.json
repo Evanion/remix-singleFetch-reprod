@@ -1,0 +1,9 @@
+{
+  "name": "remix-reprod-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/remix-reprod-e2e/src",
+  "implicitDependencies": ["remix-reprod"],
+  "// targets": "to see all targets run: nx show project remix-reprod-e2e --web",
+  "targets": {}
+}
